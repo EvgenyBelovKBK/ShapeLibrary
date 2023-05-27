@@ -1,4 +1,4 @@
-# ShapeArea
+# ShapeLibrary
 ###
 Задание №2:
 
